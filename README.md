@@ -7,8 +7,7 @@ By using, modifying, downloading or in any other way accessing it you agree to t
 
 This is a simple python code to take the ISS position from Open Notify and plot it on a map. 
 
-Map from https://commons.wikimedia.org/wiki/File:Equirectangular-projection.jpg 
-The image is public domain from NASA
+Map from https://commons.wikimedia.org/wiki/File:Equirectangular-projection.jpg. The image is public domain from NASA
 
 Dependencies:
   numpy
